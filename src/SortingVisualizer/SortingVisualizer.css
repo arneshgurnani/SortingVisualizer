@@ -1,0 +1,24 @@
+body {
+  background-color: #fff;
+}
+
+h1 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 3rem;
+}
+
+.array-container {
+  margin-top: 5%;
+}
+
+.array-bar {
+  width: 10px;
+  display: inline-block;
+  margin: 0 1px;
+}
+
+button {
+  font-size: large;
+  padding: 1%;
+  margin: 1% 1% 0% 1%;
+}
